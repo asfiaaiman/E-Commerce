@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+Install vuex using npm install vuex@next --save
+npm install -S vue-router@next
