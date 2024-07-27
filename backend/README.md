@@ -27,6 +27,11 @@ npm run dev
 ```sh
 npm run build
 ```
-
+installing vue using npm using npm create vite@latest
+installing Tailwind using https://tailwindcss.com/docs/guides/vite#vue
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 Install vuex using npm install vuex@next --save
 npm install -S vue-router@next
+For Login Page
+npm install -D @headlessui/vue @heroicons/vue @tailwindcss/forms
