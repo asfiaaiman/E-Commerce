@@ -3,7 +3,7 @@ import store from './store';
 import router from "./router";
 
 import './index.css'
-import { createApp } from 'vue'
+import {createApp} from 'vue'
 import App from './App.vue'
 
 
